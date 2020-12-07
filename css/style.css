@@ -1263,6 +1263,7 @@ p.quia {
 	color: #fcb314;
 	font-size: 1em !important;
 	font-style: italic;
+	padding-bottom: 15px;
 	margin: .5em 0 0 !important;
 	text-transform: capitalize;
 	font-weight: 400 !important;
